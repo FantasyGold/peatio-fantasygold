@@ -63,5 +63,5 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Consulting
 
-You can contact Openware for finding certified vendors:
-[Openware.com](https://www.openware.com)
+You can contact the FantasyGold Core dev team for adding new coins and plugins:
+[FGC Discord](https://discord.gg/JYuv7Er)
