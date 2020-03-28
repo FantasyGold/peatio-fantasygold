@@ -1,0 +1,10 @@
+- key:               fgc-mainnet
+  name:              FantasyGold Mainnet
+  client:            fantasygold                             # API client name.
+  server:            http://user:password@127.0.0.1:57810 # Public FantasyGold node endpoint.
+  height:            160000                               # Initial block number from which sync will be started.
+  min_confirmations: 6                                    # Minimal confirmations needed for withdraw and deposit confirmation.
+  explorer:
+    address:         https://fantasygold.network/address/#{address}
+    transaction:     https://fantasygold.network/tx/#{txid}
+  status:            active
