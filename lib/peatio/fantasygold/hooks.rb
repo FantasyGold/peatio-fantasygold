@@ -1,7 +1,7 @@
 module Peatio
   module FantasyGold
     module Hooks
-      BLOCKCHAIN_VERSION_REQUIREMENT = "~> 2.19.1"
+      BLOCKCHAIN_VERSION_REQUIREMENT = "~> 1.0.0"
       WALLET_VERSION_REQUIREMENT = "~> 1.6.99"
 
       class << self
